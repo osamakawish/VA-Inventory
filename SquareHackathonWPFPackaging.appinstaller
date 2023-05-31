@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<AppInstaller
+	Uri="file:///X:/Downloads/SquareHackathonWPFPackaging.appinstaller"
+	Version="1.0.3.0" xmlns="http://schemas.microsoft.com/appx/appinstaller/2017/2">
+	<MainBundle
+		Name="78a8b24e-c75e-4bec-b1d7-d9e4577b9cb4"
+		Version="1.0.3.0"
+		Publisher="CN=Osama Kawish"
+		Uri="file:///X:/Downloads/SquareHackathonWPFPackaging_1.0.3.0_Test/SquareHackathonWPFPackaging_1.0.3.0_x86_x64.appxbundle" />
+	<UpdateSettings>
+		<OnLaunch
+			HoursBetweenUpdateChecks="0" />
+	</UpdateSettings>
+</AppInstaller>
